@@ -8,7 +8,7 @@ https://drive.google.com/open?id=1YXudtlmOx-iV4p1KDg7Eq7HOhg3g0LWN
 
 Please email berkeboz96@gmail.com if link is not working.
 
-
+Due to time constraints, I heavily modified Corgi Engine instead of implementing some mechanics from scratch. 
 
 **Summary of Narrative Plot + Structure**
 
